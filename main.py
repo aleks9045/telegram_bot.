@@ -3,7 +3,7 @@ from telegram.ext import Updater
 from Commands import *
 
 
-TOKEN = '5154036804:AAGiZKNNRLEspsSnWddVP_C85qIaJxIKUcw'
+TOKEN = ''
 
 
 def main():
